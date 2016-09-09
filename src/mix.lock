@@ -1,0 +1,12 @@
+%{"certifi": {:hex, :certifi, "0.4.0"},
+  "floki": {:hex, :floki, "0.8.0"},
+  "hackney": {:hex, :hackney, "1.5.7"},
+  "httpoison": {:hex, :httpoison, "0.8.2"},
+  "httpotion": {:hex, :httpotion, "2.1.0"},
+  "ibrowse": {:git, "https://github.com/cmullaparthi/ibrowse.git", "d2e369ff42666c3574b8b7ec26f69027895c4d94", [tag: "v4.1.1"]},
+  "idna": {:hex, :idna, "1.2.0"},
+  "json": {:hex, :json, "0.3.3"},
+  "metrics": {:hex, :metrics, "1.0.1"},
+  "mimerl": {:hex, :mimerl, "1.0.2"},
+  "mochiweb_html": {:hex, :mochiweb_html, "2.13.0"},
+  "ssl_verify_fun": {:hex, :ssl_verify_fun, "1.1.0"}}
